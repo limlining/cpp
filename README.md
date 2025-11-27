@@ -1,1 +1,2 @@
-# what i learn about C++ in sem 1 coding in UTM .
+## C++
+the basic of c++ that what i learn in sem1 
